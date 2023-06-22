@@ -8,7 +8,7 @@
     <li>Email: de nuevo un String.</li>
     <li>Conectado: será un booleano que nos indicará si la persona está conectada o no.</li>
 </ul>
-<p><strong>Componente B: </strongPor> otro lado, tenemos el componente B que va a recibir por props un contacto y va a poder cambiar su estado de conectado a desconectado y viceversa.</p>
+<p><strong>Componente B: </strong><p>Por otro lado, tenemos el componente B que va a recibir por props un contacto y va a poder cambiar su estado de conectado a desconectado y viceversa.</p>
 <ul>
     <li>Si el contacto está conectado, se debe mostrar: <strong>Contacto En Línea</strong></li>
     <li>Si el contacto no está conectado, se debe mostrar: <strong>Contacto No Disponible</strong></li>
